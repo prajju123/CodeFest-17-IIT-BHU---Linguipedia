@@ -1,5 +1,4 @@
 # CodeFest-2017-IIT-BHU-Linguipedia
-
 Submission for CodeFest'17 - Linguipedia
 
 Private Leaderboard Rank 8
